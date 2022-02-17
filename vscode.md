@@ -10,7 +10,7 @@
 1. Navigate using Vim (should try)
 - **Vim Basic:**
   
-- **Vim in VSCode:**
+- **Vim in VSCode:**  
 <kbd>Ctrl</kbd> + <kbd>H</kbd> : In normal mode: Vim Navigate to the **left** panel  
 <kbd>Ctrl</kbd> + <kbd>L</kbd> : In normal mode: Vim Navigate to the **right** panel  
 <kbd>Ctrl</kbd> + <kbd>J</kbd> : In normal mode: Vim Navigate to the **below** panel  
