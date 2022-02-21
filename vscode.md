@@ -8,7 +8,7 @@
 <kbd>Ctrl</kbd> + <kbd>T</kbd> : Increase 1 indent to the current line of code.  
 
 #### Navigation
-1. Navigate using Vim (should try)
+1. Navigate using Vim (should try)  
 - **Vim Basic:**
   
 - **Vim in VSCode:**  
@@ -16,17 +16,17 @@
 <kbd>Ctrl</kbd> + <kbd>L</kbd> : In normal mode: Vim Navigate to the **right** panel  
 <kbd>Ctrl</kbd> + <kbd>J</kbd> : In normal mode: Vim Navigate to the **below** panel  
 
-1. Navigate without Vim  
+2. Navigate without Vim  
 <kbd>Alt</kbd> + <kbd>`</kbd> : Toggle terminal / Navigate cursor from editor to terminal  
-<kbd>F12</kbd> : Go to definition of a variable/function
+<kbd>F12</kbd> : Go to definition of a variable/function  
 <kbd>Shift</kbd> + <kbd>F12</kbd> Go to **Reference** a variable/function  
-<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd> : Find all **Preference** in all files. 
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd> : Find all **Preference** in all files.  
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>.</kbd> : Focus on another side of editor-group  
 <br>
-2. Navigate with Bookmark extension
+3. Navigate with Bookmark extension
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>K</kbd> : Toggle bookmark point.  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> : Move to next bookmark point.  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd> : Move to previous bookmark point.  
-#### Windows Shortcut
 
+#### Windows Shortcut
 <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>Arrow</kbd> : Move current window to another monitor. 
