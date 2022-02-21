@@ -11,6 +11,8 @@
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> : [Emmet] Select Inward HTML Tag.
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>9</kbd> : [Emmet] Insert HTML wrapping outside selected.  
 
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Right/Left</kbd> : Move current Editor to Next or Previous Group
+
 #### Navigation
 1. Navigate using Vim (should try)  
 - **Vim Basic:**
