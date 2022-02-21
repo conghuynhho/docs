@@ -22,7 +22,7 @@
 <kbd>Shift</kbd> + <kbd>F12</kbd> Go to **Reference** a variable/function  
 <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd> : Find all **Preference** in all files.  
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>.</kbd> : Focus on another side of editor-group  
-3. Navigate with Bookmark extension
+3. Navigate with Bookmark extension  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>K</kbd> : Toggle bookmark point.  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> : Move to next bookmark point.  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd> : Move to previous bookmark point.  
