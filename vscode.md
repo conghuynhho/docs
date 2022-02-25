@@ -10,9 +10,11 @@
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> : [Emmet] Select Outward HTML Tag.   
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> : [Emmet] Select Inward HTML Tag.
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>9</kbd> : [Emmet] Insert HTML wrapping outside selected.  
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd> : [Emmet] Remove current tag and preserve inside content  
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Right/Left</kbd> : Move current Editor to Next or Previous Group
 
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> : Go to symbol
 #### Navigation
 1. Navigate using Vim (should try)  
 - **Vim Basic:**
@@ -21,6 +23,7 @@
 <kbd>Ctrl</kbd> + <kbd>H</kbd> : In normal mode: Vim Navigate to the **left** panel  
 <kbd>Ctrl</kbd> + <kbd>L</kbd> : In normal mode: Vim Navigate to the **right** panel  
 <kbd>Ctrl</kbd> + <kbd>J</kbd> : In normal mode: Vim Navigate to the **below** panel  
+<kbd>Shift</kbd> + <kbd>V</kbd> + <kbd>J</kbd> : `Must press V and J at the same time`. Move blow line to be not break line anymore   
 
 2. Navigate without Vim  
 <kbd>Alt</kbd> + <kbd>`</kbd> : Toggle terminal / Navigate cursor from editor to terminal  
