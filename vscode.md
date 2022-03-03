@@ -5,7 +5,7 @@
 <kbd>Ctrl</kbd> + <kbd>Z</kbd> : Toggle wrap and no wrap mode in editor.  
 <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>Ctrl</kbd> + <kbd>W</kbd> : Close all editor tabs.  
 <kbd>Ctrl</kbd> + <kbd>Number</kbd> : Focus editor at {number} index.  
-<kbd>Ctrl</kbd> + <kbd>T</kbd> : Increase 1 indent to the current line of code.  
+<kbd>Ctrl</kbd> + <kbd>T</kbd> : Increase 1 indent to the current line of code  
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> : [Emmet] Select Outward HTML Tag.   
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> : [Emmet] Select Inward HTML Tag.
