@@ -35,6 +35,8 @@
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>K</kbd> : Toggle bookmark point.  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> : Move to next bookmark point.  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd> : Move to previous bookmark point.  
+<kbd>Alt</kbd> + <kbd>Left/Right</kbd> : Navigate between 2 split terminals.  
+<kbd>Ctrl</kbd> + <kbd>Up/Down</kbd> : Navigate between 2 terminals.  
 
 #### Windows Shortcut
 <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>Arrow</kbd> : Move current window to another monitor. 
