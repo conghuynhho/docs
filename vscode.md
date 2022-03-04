@@ -15,6 +15,10 @@
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Right/Left</kbd> : Move current Editor to Next or Previous Group
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> : Go to symbol
+
+##### Import  
+<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> : Remove unused import  
+<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> : Imports all missing import  
 #### Navigation
 1. Navigate using Vim (should try)  
 - **Vim Basic:**
