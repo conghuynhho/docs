@@ -11,6 +11,7 @@
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> : [Emmet] Select Inward HTML Tag.
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>9</kbd> : [Emmet] Insert HTML wrapping outside selected.  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd> : [Emmet] Remove current tag and preserve inside content  
+<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> : Surround with snipper.  
 
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Right/Left</kbd> : Move current Editor to Next or Previous Group
 
