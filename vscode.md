@@ -45,3 +45,8 @@
 
 #### Windows Shortcut
 <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>Arrow</kbd> : Move current window to another monitor. 
+
+
+#### Chrome shortcut  
+<kbd>Alt</kbd> + <kbd>D</kbd> : Select current URL tab.  
+<kbd>Alt</kbd> + <kbd>D</kbd> + <kbd>Alt</kbd> + <kbd>Enter</kbd> : Select current URL tab and then duplicate it .  
