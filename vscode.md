@@ -16,6 +16,8 @@
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Right/Left</kbd> : Move current Editor to Next or Previous Group
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> : Go to symbol
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>;</kbd> : Focus breadcrumb .
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> : Focus and open breadcrumb .
 
 ##### Import  
 <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> : Remove unused import  
@@ -50,3 +52,21 @@
 #### Chrome shortcut  
 <kbd>Alt</kbd> + <kbd>D</kbd> : Select current URL tab.  
 <kbd>Alt</kbd> + <kbd>D</kbd> + <kbd>Alt</kbd> + <kbd>Enter</kbd> : Select current URL tab and then duplicate it .  
+
+#### Vim Shortcut  
+<kbd>c</kbd> + <kbd>Number of Word</kbd> + <kbd>l</kbd> : Change a number of letter.  
+<kbd>u</kbd> : Undo in Vim (Normal mode).  
+<kbd>Ctrl</kbd> + <kbd>o</kbd> : Go to history cursor backward. 
+<kbd>Ctrl</kbd> + <kbd>i</kbd> : Go to history cursor forward. 
+- Exit or navigate between document: 
+<kbd>Z + Z</kbd> : Exit document with saving  
+<kbd>Z + Q</kbd> : Exit document without saving  
+<kbd>g</kbd> + <kbd>f</kbd> : Go to file . 
+
+
+#### Command with vim
+- Search and replace: 
+`:%s/<search-text>/<replace-text>`
+
+- In Visual Mode , select some line and type `:sort` to sort.  
+- We can split by `:sp` or `:vs`

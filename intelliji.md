@@ -8,4 +8,4 @@
 <kbd>Alt</kbd> + <kbd>Number</kbd> :  Focus/Toggle xxx group.   
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> : Format code    
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> : Surround with ?  
-<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Up/Down</kbd> : Move line up or down.  
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Up/Down</kbd> : Move line up or down.   
