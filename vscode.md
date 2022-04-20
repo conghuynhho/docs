@@ -23,15 +23,6 @@
 <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> : Remove unused import  
 <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> : Imports all missing import  
 #### Navigation
-1. Navigate using Vim (should try)  
-- **Vim Basic:**
-  
-- **Vim in VSCode:**  
-<kbd>Ctrl</kbd> + <kbd>H</kbd> : In normal mode: Vim Navigate to the **left** panel  
-<kbd>Ctrl</kbd> + <kbd>L</kbd> : In normal mode: Vim Navigate to the **right** panel  
-<kbd>Ctrl</kbd> + <kbd>J</kbd> : In normal mode: Vim Navigate to the **below** panel  
-<kbd>Shift</kbd> + <kbd>V</kbd> + <kbd>J</kbd> : `Must press V and J at the same time`. Move blow line to be not break line anymore   
-
 2. Navigate without Vim  
 <kbd>Alt</kbd> + <kbd>`</kbd> : Toggle terminal / Navigate cursor from editor to terminal  
 <kbd>F12</kbd> : Go to definition of a variable/function  
@@ -52,21 +43,3 @@
 #### Chrome shortcut  
 <kbd>Alt</kbd> + <kbd>D</kbd> : Select current URL tab.  
 <kbd>Alt</kbd> + <kbd>D</kbd> + <kbd>Alt</kbd> + <kbd>Enter</kbd> : Select current URL tab and then duplicate it .  
-
-#### Vim Shortcut  
-<kbd>c</kbd> + <kbd>Number of Word</kbd> + <kbd>l</kbd> : Change a number of letter.  
-<kbd>u</kbd> : Undo in Vim (Normal mode).  
-<kbd>Ctrl</kbd> + <kbd>o</kbd> : Go to history cursor backward. 
-<kbd>Ctrl</kbd> + <kbd>i</kbd> : Go to history cursor forward. 
-- Exit or navigate between document: 
-<kbd>Z + Z</kbd> : Exit document with saving  
-<kbd>Z + Q</kbd> : Exit document without saving  
-<kbd>g</kbd> + <kbd>f</kbd> : Go to file . 
-
-
-#### Command with vim
-- Search and replace: 
-`:%s/<search-text>/<replace-text>`
-
-- In Visual Mode , select some line and type `:sort` to sort.  
-- We can split by `:sp` or `:vs`
