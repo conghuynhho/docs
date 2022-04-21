@@ -17,6 +17,7 @@
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> : search in global project  
 <kbd>Ctrl</kbd> + <kbd>R</kbd> : search and replace in project  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>W</kbd> : close all tab
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd> : Open in windows explorer. 
 
 
 #### Search
@@ -27,6 +28,21 @@
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> : Search symbols 
  
 
+ #### File explorer
+ <kbd>Shift</kbd> + <kbd>P</kbd>  or <kbd>h</kbd> : Go to parent folder. 
+ <kbd>Ctrl</kbd> + <kbd>-</kbd> : Fold all.
+ 
+
 #### Easymotion
 
 <kbd>leader</kbd> + <kbd>f</kbd> : Open jump menu
+
+
+### IDE Navigate
+<kbd>F12</kbd> : Go to definition
+
+
+### Bookmarks
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>KEY</kbd> : Assign/remove bookmark to key.
+<kbd>Ctrl</kbd> + <kbd>Key</kbd> : Move to bookmark
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F11</kbd> : Open bookmarks popup. 
