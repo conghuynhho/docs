@@ -18,7 +18,7 @@
 <kbd>Ctrl</kbd> + <kbd>R</kbd> : search and replace in project  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>W</kbd> : close all tab
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd> : Open in windows explorer. 
-
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Insert</kbd> : Create new files.
 
 #### Search
 
