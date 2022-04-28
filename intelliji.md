@@ -18,7 +18,7 @@
 <kbd>Ctrl</kbd> + <kbd>R</kbd> : search and replace in project  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>W</kbd> : close all tab
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd> : Open in windows explorer. 
-
+<kbd>Ctrl</kbd> + <kbd>Right Click</kbd> : Highlight Current Scope (inside bracket}.
 
 #### Search
 
@@ -39,10 +39,15 @@
 
 
 ### IDE Navigate
-<kbd>F12</kbd> : Go to definition
+<kbd>F12</kbd> : Go to definition  
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd> : Move caret to matching brace (matching tag, bracket...)
 
 
 ### Bookmarks
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>KEY</kbd> : Assign/remove bookmark to key.
 <kbd>Ctrl</kbd> + <kbd>Key</kbd> : Move to bookmark
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F11</kbd> : Open bookmarks popup. 
+
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd> : open unwrap/remove tag  
+<kbd>Ctrl</kbd> + <kbd>T</kbd> : Expand selection in a block of code  
