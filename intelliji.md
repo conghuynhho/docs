@@ -19,6 +19,7 @@
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>W</kbd> : close all tab
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F12</kbd> : Open in windows explorer. 
 <kbd>Ctrl</kbd> + <kbd>Right Click</kbd> : Highlight Current Scope (inside bracket}.
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Insert</kbd> : Create new files.
 
 #### Search
 
