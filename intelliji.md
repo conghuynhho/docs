@@ -27,6 +27,7 @@
 <kbd>Ctrl</kbd> + <kbd>N</kbd> : Search class  
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> : Search files  
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> : Search symbols  
+<kbd>Ctrl</kbd> + <kbd>F12</kbd> : Open file structure    
  
 
  #### File explorer
