@@ -16,12 +16,12 @@
 
 <kbd>Z + Z</kbd> : Exit document with saving  
 <kbd>Z + Q</kbd> : Exit document without saving  
-<kbd>g</kbd> + <kbd>f</kbd> : Go to file . 
-<kbd>Shift</kbd> + <kbd>\`</kbd> : Switch uppercase -> lowercase..
-<kbd>Shift</kbd> + <kbd>u</kbd> : Switch selected to uppercase 
-<kbd>u</kbd> : Switch selected to lowercase 
-<kbd>Shift</kbd> + <kbd>a</kbd> : Go to end of line -> to Insert Mode
-<kbd>Shift</kbd> + <kbd>i</kbd> : Go to start of line -> to Insert Mode
+<kbd>g</kbd> + <kbd>f</kbd> : Go to file .  
+<kbd>Shift</kbd> + <kbd>\`</kbd> : Switch uppercase -> lowercase..  
+<kbd>Shift</kbd> + <kbd>u</kbd> : Switch selected to uppercase   
+<kbd>u</kbd> : Switch selected to lowercase   
+<kbd>Shift</kbd> + <kbd>a</kbd> : Go to end of line -> to Insert Mode  
+<kbd>Shift</kbd> + <kbd>i</kbd> : Go to start of line -> to Insert Mode  
 
 <kbd>Ctrl</kbd> + <kbd>]</kbd> or <kbd>g</kbd> + <kbd>d</kbd> : Go to usage or definition of a variable.  
 <kbd>Shift</kbd> + <kbd>8</kbd> : Go to next occurrence of word  
