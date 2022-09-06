@@ -38,6 +38,8 @@
 #### Easymotion
 
 <kbd>leader</kbd> + <kbd>f</kbd> : Open jump menu  
+<kbd>leader</kbd> + <kbd>u</kbd> : Jump up half page
+<kbd>leader</kbd> + <kbd>d</kbd> : Jumb down half page
 
 
 ### IDE Navigate
