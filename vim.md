@@ -32,6 +32,9 @@
 
 <kbd>v</kbd> + <kbd>i</kbd> + <kbd>\<tag\></kbd> : select in side a HTML tag  
 <kbd>v</kbd> + <kbd>a</kbd> + <kbd>\<tag\></kbd> : select out side a HTML tag  
+  
+<kbd>%</kbd> : Go to match bracket
+
 **When in selection press <kbd>o</kbd> or <kbd>O</kbd> to jump around selection**  
 #### Command with vim
 - Search and replace: 
