@@ -35,6 +35,9 @@
 <kbd>d</kbd> + <kbd>i</kbd> + <kbd>w</kbd> : delete whole word even cursor is standing anywhere of word   
 <kbd>d</kbd> + <kbd>i</kbd> + <kbd>p</kbd> : delete paragraph
  
+ ### Magic form ThePrimeagen
+ <kbd>=</kbd> : format or format selection
+ <kbd>=</kbd> + <kbd>a</kbd> + <kbd>p</kbd> : format all line of the paragraph
   
 <kbd>%</kbd> : Go to match bracket
 
