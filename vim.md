@@ -23,7 +23,7 @@
 <kbd>Shift</kbd> + <kbd>a</kbd> : Go to end of line -> to Insert Mode
 <kbd>Shift</kbd> + <kbd>i</kbd> : Go to start of line -> to Insert Mode
 
-<kbd>Ctrl</kbd> + <kbd>]</kbd> : Go to usage or definition of a variable.  
+<kbd>Ctrl</kbd> + <kbd>]</kbd> or <kbd>g</kbd> + <kbd>d</kbd> : Go to usage or definition of a variable.  
 <kbd>Shift</kbd> + <kbd>8</kbd> : Go to next occurrence of word  
 <kbd>Shift</kbd> + <kbd>3</kbd> : Go to previous occurrence of word  
 <kbd>Shift</kbd> + <kbd>9</kbd> : Go to empty space line upward  
