@@ -32,6 +32,9 @@
 
 <kbd>v</kbd> + <kbd>i</kbd> + <kbd>\<tag\></kbd> : select in side a HTML tag  
 <kbd>v</kbd> + <kbd>a</kbd> + <kbd>\<tag\></kbd> : select out side a HTML tag  
+<kbd>d</kbd> + <kbd>i</kbd> + <kbd>w</kbd> : delete whole word even cursor is standing anywhere of word   
+<kbd>d</kbd> + <kbd>i</kbd> + <kbd>p</kbd> : delete paragraph
+ 
   
 <kbd>%</kbd> : Go to match bracket
 
