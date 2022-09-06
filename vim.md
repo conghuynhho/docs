@@ -24,10 +24,10 @@
 <kbd>Shift</kbd> + <kbd>i</kbd> : Go to start of line -> to Insert Mode
 
 <kbd>Ctrl</kbd> + <kbd>]</kbd> : Go to usage or definition of a variable.  
-<kbd>Shift</kbd> + <kbd>8 (*)</kbd> : Go to next occurrence of word  
-<kbd>Shift</kbd> + <kbd>3 (#)</kbd> : Go to previous occurrence of word  
-<kbd>Shift</kbd> + <kbd>9 (*)</kbd> : Go to empty space line upward  
-<kbd>Shift</kbd> + <kbd>0 (*)</kbd> : Go to empty space line downward  
+<kbd>Shift</kbd> + <kbd>8</kbd> : Go to next occurrence of word  
+<kbd>Shift</kbd> + <kbd>3</kbd> : Go to previous occurrence of word  
+<kbd>Shift</kbd> + <kbd>9</kbd> : Go to empty space line upward  
+<kbd>Shift</kbd> + <kbd>0</kbd> : Go to empty space line downward  
 
 
 <kbd>v</kbd> + <kbd>i</kbd> + <kbd>\<tag\></kbd> : select in side a HTML tag  
