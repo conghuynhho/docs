@@ -41,9 +41,10 @@
  <kbd>v</kbd> + <kbd>i</kbd> + <kbd>w</kbd> : to select a word no matter where ur cursor is  
  <kbd>f</kbd> + <kbd>a char</kbd>: search a char in current line  
  <kbd>F</kbd> + <kbd>a char</kbd>: backward search
- <kbd>v</kbd> + <kbd>t</kbd> + <kbd>a char</kbd> : select from current pos to closest char.  
-  
-<kbd>%</kbd> : Go to match bracket
+ <kbd>v</kbd> + <kbd>t</kbd> + <kbd>a char</kbd> : select from current pos to closest char.   
+ <kbd>%</kbd> : Go to match bracket
+ 
+**after using f or F: using <kbd>,</kbd> or <kbd>;</kbd> to move around**
 
 **When in selection press <kbd>o</kbd> or <kbd>O</kbd> to jump around selection**  
 #### Command with vim
