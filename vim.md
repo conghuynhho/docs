@@ -17,6 +17,7 @@
 <kbd>u</kbd> : Undo in Vim (Normal mode).  
 <kbd>Ctrl</kbd> + <kbd>o</kbd> : Go to history cursor backward. 
 <kbd>Ctrl</kbd> + <kbd>i</kbd> : Go to history cursor forward. 
+<kbd>Shift</kbd> + <kbd>p</kbd> : Paste before cursor.
 
 
 <kbd>Z + Z</kbd> : Exit document with saving  
