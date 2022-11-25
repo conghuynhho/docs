@@ -7,6 +7,11 @@
 <kbd>Ctrl</kbd> + <kbd>J</kbd> : In normal mode: Vim Navigate to the **below** panel  
 <kbd>Shift</kbd> + <kbd>V</kbd> + <kbd>J</kbd> : `Must press V and J at the same time`. Move blow line to be not break line anymore   
 
+### Basic but fucking good:  
+<kbd>:</kbd> + <kbd>reg</kbd> : Show yank registerd  
+<kbd>"</kbd> + <kbd>yank name</kbd> + <kbd>p</kbd> : Paste specified yanked text.  
+<kbd>g</kbd> + <kbd>e</kbd> : end of previous word  
+
 #### Vim Shortcut  
 <kbd>c</kbd> + <kbd>Number of Word</kbd> + <kbd>l</kbd> : Change a number of letter.  
 <kbd>u</kbd> : Undo in Vim (Normal mode).  
